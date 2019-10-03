@@ -5,22 +5,22 @@
 }
 
 video{
-    min-width: 100%;
-    min-height: 100vh;
+    min-width: 104%;
+    min-height: 102vh;
     object-fit: cover;
 }
 
 .notes{
     position: absolute;
-    bottom: 0px;
-    left: 0px;
-    width: 100%;
-    height: 20vh;
+    bottom: 2px;
+    left: 2px;
+    width: 104%;
+    height: 22vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 .notes h3{
-    font-size: 50px;
+    font-size: 52px;
     color: white; 
 }
