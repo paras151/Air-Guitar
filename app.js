@@ -32,7 +32,7 @@ const modelParams = {
                 let y = hand1[1];
                 console.log(x)
 
-                if(y>300){
+                if(y>250){
                     if(x<200){
                         audio.src = "A.wav";
                     }
